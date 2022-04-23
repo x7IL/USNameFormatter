@@ -3,7 +3,7 @@
 //./a.out “MiCkAeL j FoX” | cat -e
 //./a.outk
 
-//EZ EXAM
+//not finisehd
 
 void putcharr(char n){
     write(1,&n,1);
